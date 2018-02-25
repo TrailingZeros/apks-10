@@ -1,3 +1,53 @@
+/Root/androidapps/電話_2.2.apk
+/Root/androidapps/電話_2.2.systag
+/Root/androidapps/電話_2.21.apk
+/Root/androidapps/電話_2.21.systag
+/Root/androidapps/電話_2.3.12.apk
+/Root/androidapps/電話_2.3.17.apk
+/Root/androidapps/電話_2.5.11_rc8.apk
+/Root/androidapps/電話_2.5.12_rc9.apk
+/Root/androidapps/電話_4.0.129037693.apk
+/Root/androidapps/電話_5.1-1743759.apk
+/Root/androidapps/電話_5.1-1743759.apk.apk
+/Root/androidapps/電話_5.1-1743759.systag
+/Root/androidapps/電話_5.1.1-1863243.apk
+/Root/androidapps/電話_5.1.1-1863243.systag
+/Root/androidapps/電話_5.1.1-2074855.apk
+/Root/androidapps/電話_5.1.1-2074855.systag
+/Root/androidapps/電話_5.1.1-2167285.apk
+/Root/androidapps/電話_5.1.1-2167285.systag
+/Root/androidapps/電話_6.0-2256973.apk
+/Root/androidapps/電話_6.0-2256973.systag
+/Root/androidapps/電話_6.0-2289998.apk
+/Root/androidapps/電話_6.0-2289998.systag
+/Root/androidapps/電話とSMS用ストレージ_6.0.1.apk
+/Root/androidapps/電話とSMS用ストレージ_6.0.1.systag
+/Root/androidapps/電話サービス_6.0.1.apk
+/Root/androidapps/電話サービス_6.0.1.systag
+/Root/androidapps/音声コンパニオン_1.0.apk
+/Root/androidapps/音楽_0.apk
+/Root/androidapps/音楽_1.0.0.apk
+/Root/androidapps/音楽_1.0.1.apk
+/Root/androidapps/音楽_1.0.2.apk
+/Root/androidapps/駅すぱあと for Android_3.0.0.apk
+/Root/androidapps/駅すぱあと for Android_3.0.1.apk
+/Root/androidapps/駅すぱあと for Android_3.0.2.apk
+/Root/androidapps/駅すぱあと for Android_3.1.0.apk
+/Root/androidapps/駅すぱあと for Android_3.1.2.apk
+/Root/androidapps/駅すぱあと for Android_3.1.3.apk
+/Root/androidapps/駅すぱあと for Android_3.1.4.apk
+/Root/androidapps/駅すぱあと for Android_3.1.5.apk
+/Root/androidapps/駅すぱあと for Android_3.1.6.apk
+/Root/androidapps/駅すぱあと for Android_3.1.7.apk
+/Root/androidapps/駅すぱあと for Android_3.2.1.apk
+/Root/androidapps/駅すぱあと for Android_3.2.2.apk
+/Root/androidapps/駅すぱあと for Android_3.2.3.apk
+/Root/androidapps/駅すぱあと for Android_3.2.4.apk
+/Root/androidapps/駅すぱあと_1.0.8.apk
+/Root/androidapps/駅すぱあと_1.1.0.apk
+/Root/androidapps/駅すぱあと_1.1.1.apk
+/Root/androidapps/駅すぱあと_2.13.3.apk
+/Root/androidapps/駅すぱあと_2.13.4.apk
 /Root/androidapps/背景透明化_1.4.6.apk
 /Root/androidapps/自動メモリー掃除機_1.2.1.apk
 /Root/androidapps/設定_4.4-920375.apk
